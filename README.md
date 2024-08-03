@@ -44,6 +44,7 @@ Green → Red → Orange: Turn on each LED sequentially with 2-second intervals,
 
 -Implement the traffic light sequences and patterns using the delay function.
 -Control the LEDs based on the specified sequences.
+
 #Expected Outcomes:
 
 =>By completing this project, you will gain hands-on experience with:
