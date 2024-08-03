@@ -11,12 +11,12 @@
 Green LED: Blink on and off every 1 second.
 Red LED: Blink on and off every 1 second.
 Orange LED: Blink on and off every 1 second.
->> Combinations of LEDs:
+ Combinations of LEDs:
 
 Green + Orange: Both LEDs turn on together for 1 second, then turn off together for 1 second.
 Green + Red: Both LEDs turn on together for 1 second, then turn off together for 1 second.
 Red + Orange: Both LEDs turn on together for 1 second, then turn off together for 1 second.
->> Multi-LED Pattern:
+Multi-LED Pattern:
 
 Green + Orange + Red: All three LEDs turn on together for 2 seconds, then turn off together for 2 seconds.
 >> Sequential LED Pattern:
@@ -48,5 +48,7 @@ Green → Red → Orange: Turn on each LED sequentially with 2-second intervals,
 -Configuring and controlling GPIO pins.
 
 -Using the SysTick timer for generating precise delays.
+
 -Writing modular and efficient embedded software.
+
 -Understanding and handling interrupts in a real-time system.
