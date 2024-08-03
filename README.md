@@ -46,6 +46,7 @@ Green → Red → Orange: Turn on each LED sequentially with 2-second intervals,
 =>By completing this project, you will gain hands-on experience with:
 
 -Configuring and controlling GPIO pins.
+
 -Using the SysTick timer for generating precise delays.
 -Writing modular and efficient embedded software.
 -Understanding and handling interrupts in a real-time system.
