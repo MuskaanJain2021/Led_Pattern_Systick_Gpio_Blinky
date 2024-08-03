@@ -19,7 +19,7 @@ Red + Orange: Both LEDs turn on together for 1 second, then turn off together fo
 Multi-LED Pattern:
 
 Green + Orange + Red: All three LEDs turn on together for 2 seconds, then turn off together for 2 seconds.
->> Sequential LED Pattern:
+ |Sequential LED Pattern:|
 
 Green → Red → Orange: Turn on each LED sequentially with 2-second intervals, and turn them off in the same sequence.
 ## Components:
