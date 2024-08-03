@@ -11,14 +11,17 @@
 Green LED: Blink on and off every 1 second.
 Red LED: Blink on and off every 1 second.
 Orange LED: Blink on and off every 1 second.
+
 2. Combinations of LEDs:
 
 Green + Orange: Both LEDs turn on together for 1 second, then turn off together for 1 second.
 Green + Red: Both LEDs turn on together for 1 second, then turn off together for 1 second.
 Red + Orange: Both LEDs turn on together for 1 second, then turn off together for 1 second.
+
 3. Multi-LED Pattern:
 
 Green + Orange + Red: All three LEDs turn on together for 2 seconds, then turn off together for 2 seconds.
+
 4. Sequential LED Pattern:
 
 Green → Red → Orange: Turn on each LED sequentially with 2-second intervals, and turn them off in the same sequence.
